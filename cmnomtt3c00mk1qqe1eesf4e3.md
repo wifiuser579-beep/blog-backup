@@ -5,6 +5,7 @@ seoDescription: "Use short links for podcast marketing to track every episode, g
 datePublished: 2026-03-28T05:00:00.000Z
 cuid: cmnomtt3c00mk1qqe1eesf4e3
 slug: short-links-podcast-marketing
+canonical: https://www.simpleurl.tech/blog/short-links-podcast-marketing
 cover: https://cdn.hashnode.com/uploads/covers/682870ca34178af533acf2f9/44d92a1c-bed0-4208-adc5-d6457abd1789.webp
 ogImage: https://cdn.hashnode.com/uploads/og-images/682870ca34178af533acf2f9/cd04a387-c341-4d33-a471-fa076f557e3c.webp
 tags: podcastmarketing, short-links-for-podcast-marketing, how-to-use-short-links, how-to-use-url-shortner
