@@ -5,7 +5,7 @@ seoDescription: "Learn how to track which e-commerce campaigns drive real conver
 datePublished: 2026-03-17T05:00:00.000Z
 cuid: cmn4k04az01kx2flkaynu7j7r
 slug: how-to-track-e-commerce-campaigns
-canonical: https://www.simpleurl.tech/blog/short-links-whatsapp-sms-marketing-india
+canonical: https://www.simpleurl.tech/blog/how-to-track-e-commerce-campaigns
 cover: https://cdn.hashnode.com/uploads/covers/682870ca34178af533acf2f9/542ef932-b60e-4089-881a-5288f6a422be.png
 tags: shorturl-for-ecommerce, url-shortner-for-ecommerce
 
