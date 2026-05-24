@@ -5,6 +5,7 @@ seoDescription: "Discover how agencies use branded short links to boost CTR, tra
 datePublished: 2026-02-28T05:31:49.841Z
 cuid: cmm5vvx7000d21qi54osk82c3
 slug: how-agencies-use-branded-short-links
+canonical: https://www.simpleurl.tech/blog/how-agencies-use-branded-short-links
 cover: https://cdn.hashnode.com/uploads/covers/682870ca34178af533acf2f9/f160bc45-d7f3-44c0-b780-39b4ace500e8.png
 ogImage: https://cdn.hashnode.com/uploads/og-images/682870ca34178af533acf2f9/c485cb65-4ae8-4b7c-bfd6-f743807f9520.png
 tags: digital-marketing, agencymarketing, linktracking, branded-links, brandedshortlinks, campaigntracking
