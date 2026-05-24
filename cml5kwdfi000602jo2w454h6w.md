@@ -5,6 +5,7 @@ seoDescription: "Learn how branded short links boost LinkedIn B2B engagement by 
 datePublished: 2026-01-27T18:30:00.000Z
 cuid: cml5kwdfi000602jo2w454h6w
 slug: branded-links-linkedin-b2b-engagement
+canonical: https://www.simpleurl.tech/blog/branded-links-linkedin-b2b-engagement
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1769665410039/3c5bef33-cfae-488d-8434-04ca02e579c2.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1769665679173/8c897f48-a24d-4495-a707-317e04288603.png
 tags: digital-marketing, linkedinmarketing, b2b-marketing, brandedlinks
