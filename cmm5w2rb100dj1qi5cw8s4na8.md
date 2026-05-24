@@ -5,6 +5,7 @@ seoDescription: "Learn how branded domains increase trust, improve CTR by 30–4
 datePublished: 2026-02-28T05:37:08.802Z
 cuid: cmm5w2rb100dj1qi5cw8s4na8
 slug: the-complete-guide-to-branded-domains
+canonical: https://www.simpleurl.tech/blog/the-complete-guide-to-branded-domains
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1771485996170/1b90366c-767d-4afd-8d7b-ad49cfe82f57.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1771486079926/efa70613-6e53-4fd7-a90b-09aab44c1035.png
 tags: url-shortener, branded-domain, branded-short-links, simpleurl
