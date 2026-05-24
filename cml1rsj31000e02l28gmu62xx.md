@@ -5,6 +5,7 @@ seoDescription: "Learn how to track ROI using short links, UTMs, and analytics. 
 datePublished: 2026-01-31T03:46:26.077Z
 cuid: cml1rsj31000e02l28gmu62xx
 slug: how-to-track-roi-with-short-links-complete-campaign-attribution-guide
+canonical: https://www.simpleurl.tech/blog/how-to-track-roi-with-short-links-complete-campaign-attribution-guide
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1769660204405/d7bf24a1-7d68-47c0-8cf1-3a6708599bee.webp
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1769660196196/7007f50b-2e88-4e9f-a00f-d94fd13db782.webp
 tags: digital-marketing, url-shortener, marketing-analytics, linktracking, campaignattribution
