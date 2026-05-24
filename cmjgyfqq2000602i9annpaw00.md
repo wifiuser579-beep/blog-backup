@@ -5,6 +5,7 @@ seoDescription: "Learn smart ways to use branded short links in your marketing. 
 datePublished: 2025-12-15T23:00:00.000Z
 cuid: cmjgyfqq2000602i9annpaw00
 slug: smart-ways-to-use-branded-short-links-in-marketing
+canonical: https://www.simpleurl.tech/blog/smart-ways-to-use-branded-short-links-in-marketing
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1764833871442/9e9b6f0e-118a-4660-a466-5f1b2e3faab3.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1764834008322/6574c54b-2f2f-453b-8f4d-780aac5554bd.png
 tags: conversion-rate-optimization, marketing-strategies, digitalmarketingtips, url-shortening, short-link, branded-short-links, conversion-rate-optimization-tool
