@@ -5,6 +5,7 @@ seoDescription: "Learn what a vanity URL is, how branded short links work, real 
 datePublished: 2026-01-28T09:59:15.750Z
 cuid: cmkxusfmu000e02ib9nop2wlf
 slug: what-is-a-vanity-url
+canonical: https://www.simpleurl.tech/blog/what-is-a-vanity-url
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1769593742985/0ae5b252-7171-4bda-a24b-f0c9df8f87ad.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1769594239885/c87039a3-e4ea-473b-8431-70af2432ce0e.png
 tags: url-shortener, vanity-url, digitalmarketingtools, branded-short-links, custom-short-links, link-branding
