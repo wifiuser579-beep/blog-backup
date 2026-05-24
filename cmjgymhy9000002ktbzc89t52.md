@@ -5,6 +5,7 @@ seoDescription: "Learn how to track every click using short links, UTMs, and sim
 datePublished: 2025-12-17T23:00:00.000Z
 cuid: cmjgymhy9000002ktbzc89t52
 slug: how-to-track-every-click-short-links-utms-analytics
+canonical: https://www.simpleurl.tech/blog/how-to-track-every-click-short-links-utms-analytics
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1764841610392/7fc131e1-3cfd-48b8-9355-004afc5050aa.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1764841807705/bc278c26-0171-4235-b19c-d2b55e18722d.png
 tags: click-tracking, conversionoptimization, url-shortening, marketing-analytics, utm-parameters, branded-short-links, track-clicks, website-address-shortener
