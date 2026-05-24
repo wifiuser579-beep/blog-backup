@@ -5,6 +5,7 @@ seoDescription: "Use a free URL shortener with analytics to track clicks, locati
 datePublished: 2026-01-21T18:30:00.000Z
 cuid: cmkzg8qk7000502k0ar33da1y
 slug: free-url-shortener-with-analytics
+canonical: https://www.simpleurl.tech/blog/free-url-shortener-with-analytics
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1769661741800/8ccffda6-d678-4db4-bd2c-ffb45e424474.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1769661711876/ca8fab51-24f9-4cfb-b894-9a930213c4c6.png
 tags: digital-marketing, url-shortener, saas-tools, marketing-analytics
