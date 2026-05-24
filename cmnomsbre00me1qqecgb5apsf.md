@@ -5,6 +5,7 @@ seoDescription: "Branded URLs build instant trust and increase clicks vs generic
 datePublished: 2026-03-29T05:00:00.000Z
 cuid: cmnomsbre00me1qqecgb5apsf
 slug: branded-urls-vs-generic-short-links
+canonical: https://www.simpleurl.tech/blog/branded-urls-vs-generic-short-links
 cover: https://cdn.hashnode.com/uploads/covers/682870ca34178af533acf2f9/7f90f038-a561-4c91-a1f3-f7c199dd6eb3.jpg
 ogImage: https://cdn.hashnode.com/uploads/og-images/682870ca34178af533acf2f9/ccc0e95f-99b4-42a0-b69f-b9b666ad3aea.jpg
 tags: url-shortener, short-links, branded-urls, branded-urls-build-instant-trust
