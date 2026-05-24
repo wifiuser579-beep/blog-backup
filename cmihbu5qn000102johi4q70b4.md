@@ -5,6 +5,7 @@ seoDescription: "Learn how a clean, public URL short link instantly builds trust
 datePublished: 2025-11-25T23:00:00.000Z
 cuid: cmihbu5qn000102johi4q70b4
 slug: why-does-a-clean-public-short-link-increase-click-through-rate-ctr
+canonical: https://www.simpleurl.tech/blog/why-does-a-clean-public-short-link-increase-click-through-rate-ctr
 tags: digital-marketing, url-shortener, url-shortening, link-shortener, link-analytics
 
 ---
