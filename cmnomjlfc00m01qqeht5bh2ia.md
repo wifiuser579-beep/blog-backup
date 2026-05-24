@@ -5,6 +5,7 @@ seoDescription: "Use short links to boost restaurant reviews, track customer act
 datePublished: 2026-04-06T05:00:00.000Z
 cuid: cmnomjlfc00m01qqeht5bh2ia
 slug: short-links-for-restaurants-reviews
+canonical: https://www.simpleurl.tech/blog/short-links-for-restaurants-reviews
 cover: https://cdn.hashnode.com/uploads/covers/682870ca34178af533acf2f9/89de3edc-f902-4b74-a8c2-b8a04ba9d294.png
 ogImage: https://cdn.hashnode.com/uploads/og-images/682870ca34178af533acf2f9/bf85b632-758c-4897-a52c-47bb9cac55cb.png
 tags: digital-marketing, customer-experience, url-shortener, short-link, restaurantmarketing, short-links-for-restaurants
