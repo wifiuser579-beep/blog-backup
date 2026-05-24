@@ -3,6 +3,7 @@ title: "Short Link Tracking: How to Make Data-Driven Decisions with Link Analyti
 datePublished: 2026-03-31T05:00:00.000Z
 cuid: cmnompeqh00m91qqe77173s7m
 slug: short-link-tracking-how-to-make-data-driven-decisions-with-link-analytics
+canonical: https://www.simpleurl.tech/blog/short-link-tracking-how-to-make-data-driven-decisions-with-link-analytics
 
 ---
 
