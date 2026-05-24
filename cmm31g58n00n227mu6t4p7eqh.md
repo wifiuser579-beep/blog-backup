@@ -5,6 +5,7 @@ seoDescription: "Turn long WhatsApp links into branded short links with tracking
 datePublished: 2026-02-26T05:44:12.939Z
 cuid: cmm31g58n00n227mu6t4p7eqh
 slug: url-shortener-for-whatsapp-marketing
+canonical: https://www.simpleurl.tech/blog/url-shortener-for-whatsapp-marketing
 cover: https://cdn.hashnode.com/uploads/covers/682870ca34178af533acf2f9/d3157e8b-0c0e-4952-8f12-59fe481980fc.png
 ogImage: https://cdn.hashnode.com/uploads/og-images/682870ca34178af533acf2f9/9684ae56-8283-4fde-a022-5f24abc830f4.png
 tags: url-shortener, url-shortener-for-whatsapp
