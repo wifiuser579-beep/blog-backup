@@ -3,6 +3,7 @@ title: "What is a URL Shortener & Why you Should Start Using One in 2025"
 datePublished: 2025-08-31T22:00:00.000Z
 cuid: cmfqqc5yd000102l5a019hxf5
 slug: what-is-a-url-shortener-and-why-you-should-use-it-in-2025
+canonical: https://www.simpleurl.tech/blog/what-is-a-url-shortener-and-why-you-should-use-it-in-2025
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1758279483238/30ba582e-7c93-49fe-8b03-ba6a0ca9d719.png
 
 ---
