@@ -5,6 +5,7 @@ seoDescription: "Discover what actually works in 2026. Boost clicks, track campa
 datePublished: 2026-02-19T07:17:41.798Z
 cuid: cmlt4peed001b02l1fbaxhep3
 slug: url-shortener-for-social-media-marketing
+canonical: https://www.simpleurl.tech/blog/url-shortener-for-social-media-marketing
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1771485273072/35db6536-c6ad-47b8-b545-afc560d28efd.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1771485325509/c3b79faf-44a5-42de-a48c-4130daee01d0.png
 tags: social-media-marketing, url-shortener, url-shortening, branded-short-links
