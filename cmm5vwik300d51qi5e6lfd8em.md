@@ -5,6 +5,7 @@ seoDescription: "Discover why startups should use custom domain URL shorteners f
 datePublished: 2026-02-28T05:32:17.526Z
 cuid: cmm5vwik300d51qi5e6lfd8em
 slug: url-shortener-for-startups
+canonical: https://www.simpleurl.tech/blog/url-shortener-for-startups
 cover: https://cdn.hashnode.com/uploads/covers/682870ca34178af533acf2f9/a3687a97-dbcc-4e8b-879f-3f6404be0bdc.jpg
 ogImage: https://cdn.hashnode.com/uploads/og-images/682870ca34178af533acf2f9/5c942109-ff4d-496d-88f0-fbcc9dfc8f15.png
 tags: url-shortener-for-startups
