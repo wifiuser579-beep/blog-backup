@@ -5,6 +5,7 @@ seoDescription: "Learn why short links improve SMS marketing results. Boost clic
 datePublished: 2026-04-03T05:00:00.000Z
 cuid: cmnomg6e900lu1qqe7ngs1bbw
 slug: short-links-sms-marketing
+canonical: https://www.simpleurl.tech/blog/short-links-sms-marketing
 cover: https://cdn.hashnode.com/uploads/covers/682870ca34178af533acf2f9/42334210-08c4-40d0-91e8-ff770f444276.png
 tags: digital-marketing, url-shortener, sms-marketing
 
