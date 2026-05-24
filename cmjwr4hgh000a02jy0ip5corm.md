@@ -5,6 +5,7 @@ seoDescription: "Learn UTM parameters in minutes. Build tracked links, read GA4 
 datePublished: 2025-12-31T23:00:00.000Z
 cuid: cmjwr4hgh000a02jy0ip5corm
 slug: utm-parameters-beginners-guide-2026
+canonical: https://www.simpleurl.tech/blog/utm-parameters-beginners-guide-2026
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1766751000923/bc780546-fd8a-4d34-8afd-4b14ca90d845.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1766750953598/316df7b4-6a6e-46b8-b41e-50ed663b7242.png
 tags: marketing-analytics, utm-parameters, google-analytics-4-ga4, campaign-tracking
