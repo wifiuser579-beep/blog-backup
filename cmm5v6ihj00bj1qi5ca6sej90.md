@@ -5,6 +5,7 @@ seoDescription: "Learn how to use a URL shortener for affiliate marketing to tra
 datePublished: 2026-02-28T05:12:04.379Z
 cuid: cmm5v6ihj00bj1qi5ca6sej90
 slug: url-shortener-for-affiliate-marketing
+canonical: https://www.simpleurl.tech/blog/url-shortener-for-affiliate-marketing
 cover: https://cdn.hashnode.com/uploads/covers/682870ca34178af533acf2f9/fc929c01-05f4-4c1f-acb1-9d4d718d75c1.png
 ogImage: https://cdn.hashnode.com/uploads/og-images/682870ca34178af533acf2f9/223a4e92-5624-4926-a3d8-2792e233a18a.png
 tags: url-shortener, affiliate-marketing, link-tracking
