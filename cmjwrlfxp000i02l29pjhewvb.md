@@ -5,6 +5,7 @@ seoDescription: "See how branded links improve trust, inbox placement, and click
 datePublished: 2026-01-02T11:02:22.189Z
 cuid: cmjwrlfxp000i02l29pjhewvb
 slug: increase-email-ctr-with-branded-links
+canonical: https://www.simpleurl.tech/blog/increase-email-ctr-with-branded-links
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1766762798675/a03580ac-0646-4535-8c16-6bca8d3d7c27.webp
 tags: email-marketing, email-campaign-optimization, branded-short-links, click-through-rate-ctr, url-shorteners
 
