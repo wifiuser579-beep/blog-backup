@@ -5,6 +5,7 @@ seoDescription: "Learn why short links are essential for WhatsApp and SMS market
 datePublished: 2026-03-24T11:25:46.060Z
 cuid: cmn4j3j6101jc2flkh5zheowg
 slug: short-links-whatsapp-sms-marketing-india
+canonical: https://www.simpleurl.tech/blog/short-links-whatsapp-sms-marketing-india
 cover: https://cdn.hashnode.com/uploads/covers/682870ca34178af533acf2f9/c283ace5-5575-4eec-b469-cb110ea9874b.webp
 ogImage: https://cdn.hashnode.com/uploads/og-images/682870ca34178af533acf2f9/24fd5f2a-bc58-4e5a-bc3a-dccb378ea621.webp
 tags: url-shortener, sms-marketing, whatsapp-marketing, url-shortener-for-startups
