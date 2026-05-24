@@ -5,6 +5,7 @@ seoDescription: "Learn how short links increase e-commerce conversions for Shopi
 datePublished: 2026-02-02T19:43:35.780Z
 cuid: cml5kv5gk000202jj86u3aui9
 slug: short-links-ecommerce-conversions
+canonical: https://www.simpleurl.tech/blog/short-links-ecommerce-conversions
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1769662123131/d3a22c9c-3698-4d74-b4ed-c352a8b2f9ab.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1769662127788/df393f19-9cf1-40fa-88af-25940f01279d.png
 tags: ecommerce, shopify, digital-marketing, conversionrateoptimization
