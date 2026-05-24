@@ -5,6 +5,7 @@ seoDescription: "See how branded short links increase click-through rates across
 datePublished: 2026-02-08T18:30:00.000Z
 cuid: cmlhl1day000302l2g4ke5qcr
 slug: branded-short-links-boost-ctr
+canonical: https://www.simpleurl.tech/blog/branded-short-links-boost-ctr
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1770621650329/b27dfa58-4fb2-4a82-8797-52a4f7e12056.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1770621775434/082f577f-cc1a-425f-a0da-2d3377f4f37e.png
 tags: digital-marketing, marketing-strategy, saas-tools, growth-marketing, linktracking, branded-links, clickthroughrate
