@@ -5,6 +5,7 @@ seoDescription: "Learn how to shorten affiliate links using a URL shortener to b
 datePublished: 2026-03-30T05:00:00.000Z
 cuid: cmnomqm1o00mc1qqea43n1i0j
 slug: how-to-shorten-affiliate-links
+canonical: https://www.simpleurl.tech/blog/how-to-shorten-affiliate-links
 cover: https://cdn.hashnode.com/uploads/covers/682870ca34178af533acf2f9/af9eb9fa-918a-43be-b068-90b456fb7248.png
 ogImage: https://cdn.hashnode.com/uploads/og-images/682870ca34178af533acf2f9/d701901b-b7d0-4e88-a61a-dc335cae28c6.png
 tags: digital-marketing, link-building, growthhacking, url-shortener, affiliate-marketing
