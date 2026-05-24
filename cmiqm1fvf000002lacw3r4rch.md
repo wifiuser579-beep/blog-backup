@@ -4,6 +4,7 @@ seoTitle: "What is a URL Shortener and How Does It Work?"
 datePublished: 2025-12-03T23:00:31.515Z
 cuid: cmiqm1fvf000002lacw3r4rch
 slug: what-is-a-url-shortener-and-how-does-it-work-beginners-guide
+canonical: https://www.simpleurl.tech/blog/what-is-a-url-shortener-and-how-does-it-work-beginners-guide
 tags: url-shortener, link-shortener, free-url-shortener
 
 ---
