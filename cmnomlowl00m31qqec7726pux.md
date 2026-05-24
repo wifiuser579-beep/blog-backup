@@ -5,6 +5,7 @@ seoDescription: "Learn how short links boost omnichannel marketing ROI by tracki
 datePublished: 2026-04-07T12:59:15.676Z
 cuid: cmnomlowl00m31qqec7726pux
 slug: how-short-links-boost-your-omnichannel-marketing
+canonical: https://www.simpleurl.tech/blog/how-short-links-boost-your-omnichannel-marketing/
 cover: https://cdn.hashnode.com/uploads/covers/682870ca34178af533acf2f9/cdd134b4-6762-4487-a55d-714e22f2cf74.png
 ogImage: https://cdn.hashnode.com/uploads/og-images/682870ca34178af533acf2f9/e7fa70c1-53e3-4cc5-a423-60f773511251.png
 tags: omnichannel, marketingroi, short-links, short-links-for-omnichannel
